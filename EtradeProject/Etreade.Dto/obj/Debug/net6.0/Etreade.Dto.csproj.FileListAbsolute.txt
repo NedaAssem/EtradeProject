@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\PitirmeProje\Etreade\Etreade.Dto\bin\Debug\net6.0\Etreade.Dto.deps.json
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\PitirmeProje\Etreade\Etreade.Dto\bin\Debug\net6.0\Etreade.Dto.runtimeconfig.json
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\PitirmeProje\Etreade\Etreade.Dto\bin\Debug\net6.0\Etreade.Dto.dll
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\PitirmeProje\Etreade\Etreade.Dto\bin\Debug\net6.0\Etreade.Dto.pdb
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\PitirmeProje\Etreade\Etreade.Dto\obj\Debug\net6.0\Etreade.Dto.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\PitirmeProje\Etreade\Etreade.Dto\obj\Debug\net6.0\Etreade.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\PitirmeProje\Etreade\Etreade.Dto\obj\Debug\net6.0\Etreade.Dto.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\PitirmeProje\Etreade\Etreade.Dto\obj\Debug\net6.0\Etreade.Dto.AssemblyInfo.cs
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\PitirmeProje\Etreade\Etreade.Dto\obj\Debug\net6.0\Etreade.Dto.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\PitirmeProje\Etreade\Etreade.Dto\obj\Debug\net6.0\Etreade.Dto.dll
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\PitirmeProje\Etreade\Etreade.Dto\obj\Debug\net6.0\refint\Etreade.Dto.dll
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\PitirmeProje\Etreade\Etreade.Dto\obj\Debug\net6.0\Etreade.Dto.pdb
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\PitirmeProje\Etreade\Etreade.Dto\obj\Debug\net6.0\Etreade.Dto.genruntimeconfig.cache
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\PitirmeProje\Etreade\Etreade.Dto\obj\Debug\net6.0\ref\Etreade.Dto.dll
